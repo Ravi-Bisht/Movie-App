@@ -1,3 +1,7 @@
+Netlify Deploy Link
+
+https://64cfff6bda73a57c396af152--movieapp-react007.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
